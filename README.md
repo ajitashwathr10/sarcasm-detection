@@ -98,11 +98,6 @@ Now you're ready to start detecting sarcasm!
   print(predictions)
   ```
 
-## Results
-- Traditional ML Model: Achieved **85%** accuracy with TF-IDF and Random Forest.
-- Deep Learning Model (BERT): Achieved **92%** accuracy on test data.
-- Ensemble: Improved overall accuracy to **93%**.
-
 ## Contributing
 We welcome contributions to enhance this project. Feel free to submit pull requests or raise issues!
 
